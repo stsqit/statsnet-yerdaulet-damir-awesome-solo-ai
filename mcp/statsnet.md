@@ -1,15 +1,15 @@
 # Statsnet MCP
 
-**Remote company background check** for AI agents: registration details, executives, courts, and finances worldwide.
+Search company registration details, executives, court records and finances from an MCP client.
 
 - Remote MCP: `https://statsnet.co/mcp`
 - Repo: https://github.com/usenetstate/statsnet-mcp
 - Official Registry: `io.github.usenetstate/statsnet`
 - Site: https://statsnet.co
 
-## Why solos care
+## Access and coverage
 
-Due diligence on a customer, vendor, or competitor without leaving the agent. One remote URL; worldwide coverage.
+The [official server documentation](https://github.com/usenetstate/statsnet-mcp) lists `search_companies` and `get_company`. These return public company cards for free. Contacts, full contracts, relations and exports require a Statsnet subscription through its REST API. Coverage and available fields vary by company.
 
 ## Connect
 
